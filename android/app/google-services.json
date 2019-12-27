@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79354655252",
+    "firebase_url": "https://skenavimas-ea758.firebaseio.com",
+    "project_id": "skenavimas-ea758",
+    "storage_bucket": "skenavimas-ea758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79354655252:android:b94cc1f5ffb228dbb4ed01",
+        "android_client_info": {
+          "package_name": "com.skenavimas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79354655252-k61ufucedd3grb117g5l0sofoa3hpphs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGR8wqhfNmreHYZpylsExEGqjhM5G_FBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79354655252-k61ufucedd3grb117g5l0sofoa3hpphs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
